@@ -2,7 +2,7 @@
 
 ## Tecnologías utilizadas
 
-- **Java 17**
+- **Java 23**
 - **Spring Boot 3**
 - **Spring Data JPA**
 - **Spring Security** (si aplica)
